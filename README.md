@@ -1,7 +1,7 @@
 # RonGab Tech Portfolio Website
 
 ---
-The UDD-CPE Blog Website is a modern content management platform tailored for the academic and professional community at Universidad de Dagupan. It bridges the gap between static reading and dynamic content administration, allowing for seamless article management through a centralized interface.
+The RonGab Tech Portfolio is a high-performance digital showcase engineered to bridge the gap between complex hardware robotics and modern web systems. It serves as a centralized hub for documenting advanced engineering projects—from bionic systems to Smart Campus automation—providing a seamless interface for exploring technical implementations, project milestones, and professional expertise.
 
 ## 📌 Features
 
