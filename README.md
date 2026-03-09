@@ -24,6 +24,7 @@ https://github.com/gabicaronaldp-pixel/PORTFOLIO-WEBSITE
 ---
 
 Core Functionalities
+
 Project Showcase: A dedicated gallery or list displaying personal and professional software projects, often including descriptions, role details, and links to live demos or source code.
 
 Skill Visualization: A section highlighting technical proficiencies (e.g., Languages, Frameworks, Tools) using icons or progress bars to give visitors a quick overview of the developer's stack.
