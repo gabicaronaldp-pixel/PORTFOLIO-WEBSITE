@@ -19,7 +19,7 @@ The RonGab Tech Portfolio is a high-performance digital showcase engineered to b
 
 <img width="1907" height="970" alt="image" src="https://github.com/user-attachments/assets/c98ed66d-8aef-4ad1-9907-d216ea0b0687" />
 
-(https://github.com/gabicaronaldp-pixel/UDD-CPE-BLOG-Website)
+https://github.com/gabicaronaldp-pixel/PORTFOLIO-WEBSITE
 
 ---
 
